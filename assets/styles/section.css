@@ -1,0 +1,15 @@
+section {
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: var(--color-white);
+	background-color: #080a0b;
+}
+
+section.-main {
+	background-color: var(--color-white);
+}
